@@ -1,0 +1,10 @@
+Package: com.taiyangmobile.jb2
+Name: jb2
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: 孙建伟
+Author: 孙建伟
+Section: Tweaks
+Version: 0.0.1-10
+Installed-Size: 16
